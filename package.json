@@ -1,0 +1,17 @@
+{
+  "name": "fntrack",
+  "version": "1.0.0",
+  "description": "Keeps stats on fortnite stuff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brett Lawson <brett19@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mysql": "github:mysqljs/mysql",
+    "node-yaml-config": "0.0.4",
+    "request": "^2.83.0"
+  }
+}
